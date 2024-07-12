@@ -10,7 +10,6 @@ I'm **Dylan Osorio**, a junior technical consultant specializing in Microsoft Dy
 
 ## Contact
 
-- 📫 You can reach me at: [dylanosocamu@gmail.com](mailto:dylanosocamu@gmail.com)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/dylanosorio)
 
 ---
