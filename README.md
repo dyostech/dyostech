@@ -13,9 +13,3 @@ I'm **Dylan Osorio**, a junior technical consultant specializing in Microsoft Dy
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/dylanosorio)
 
 ---
-
-## Motto
-
-"Sharing is living" - And on GitHub, we share code to build together!
-
-Feel free to explore my projects and follow my journey of learning in the tech world! 😄
